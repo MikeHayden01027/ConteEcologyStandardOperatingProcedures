@@ -17,7 +17,7 @@ editor: visual
     1.  Display Camera Settings
 2.  **POWER/ MODE SWITCH**
     1.  Turn Camera **ON/OFF** and allows user to access **SETUP MODE**
-3.  **SWITCHES**
+3.  **SWITCHEd**
     1.  Navigate and program camera settings
 4.  **SD Card Slot**
     -   Make sure SD card is not locked
