@@ -1,0 +1,407 @@
+---
+title: "Bushnell Camera Guide"
+format: 
+  html: 
+    self-contained: true
+    toc: true
+editor: visual
+---
+
+# Camera Overview
+
+### **Undo Latch on camera to open it like a book.**
+
+**Overall Camera Layout**
+
+1.  **LCD Screen**
+    1.  Display Camera Settings
+2.  **POWER/ MODE SWITCH**
+    1.  Turn Camera **ON/OFF** and allows user to access **SETUP MODE**
+3.  **SWITCHES**
+    1.  Navigate and program camera settings
+4.  **SD Card Slot**
+    -   Make sure SD card is not locked
+    -   Insert SD card with label facing upwards
+    -   A click sound indicates SD card is inserted correctly
+    -   To remove
+        -   gently push and the card should spring back and then it can be removed
+5.  **Battery Compartment**
+    -   Put **8 AA** batteries
+    -   Line Up **Negative/Positive** symbols on camera to **Negative/Positive** on batteries
+
+![](Documents/CameraSOP/Bushnell/Photos/000.01-Bushnell%20Overview.jpeg)
+
+### **Buttons**
+
+1.  **POWER/ MODE SWITCH**
+
+    1.  **ON** = Power switch in the **ON** position (LCD screen is off.)
+    2.  **SETUP** = SETUP mode: Power switch at SETUP position (LCD screen is on).
+        -   Check and Change the settings of the camera
+    3.  **OFF** = OFF mode: Power switch in the OFF position
+
+2.  **MENU**
+
+    -   Pressing MENU allows you to select any parameter and change its settings.
+
+3.  **OK**
+
+    -   save the new setting
+
+4.  Arrow Keys
+
+    1.  **RIGHT/LEFT**
+
+        -   Scrolls to the next or previous parameters
+
+    2.  **UP/DOWN**
+
+        -   Select a different setting for the currently displayed parameter
+
+![Bushnell Model A Keys](Documents/CameraSOP/Bushnell/Photos/000.01-Bushnell%20Overview.jpeg)
+
+![Bushnell Model B Keys](Documents/CameraSOP/Bushnell/Photos/000.2-Other%20Bushnell.jpeg)
+
+### **Screen**
+
+1.  **Mode Camera**
+    -   **Camera symbol** means camera in camera mode
+2.  **Image Resolution**
+    -   Should be **HD**
+3.  **SD Card**
+    -   Clear if **SD card** is **not locked**
+    -   If **SD card** is **locked** a lock symbol will appear in center
+4.  **Battery Level**
+5.  **Date/Time**
+6.  **Remaining Photo Capacity**
+    -   Total number of photos SD card can hold
+7.  **\# of Photos Taken**
+    -   Number of photos on SD card
+8.  **Field Scan ON**
+    -   Will appear if Field Scan is ON.
+
+    -   Blank if Field Scan is OFF
+9.  **Time Stamp ON**
+    1.  Will appear if Time Stamp is ON
+    2.  Blank of Time Stamp is OFF
+
+![](Documents/CameraSOP/Bushnell/Photos/BUSHNELL%20Home%20Screen.jpeg)
+
+# Power Camera On
+
+1.  Put **8 AA Batteries** into the **Battery Compartment**
+    1.  Refer to **Camera Overview** section , subsection 2 , subsection 5 ( **Battery Compartment** )
+2.  Install **SD CARD**
+    1.  Refer to **Camera Overview** section , subsection 2 , subsection 4 ( **SD Card Slot** )
+3.  Move **POWER/MODE SWITCH** switch to **SETUP** position
+    1.  SETUP position brings up the set up mode screen
+4.  LCD Screen should turn on
+
+![](Documents/CameraSOP/Bushnell/Photos/Bushnell%20Camera%20Turn%20to%20SetUP.jpeg)
+
+# Menu/Settings
+
+-   Press **MENU** Button
+-   Use **LEFT/RIGHT** Keys to scroll to the next or previous parameters
+-   For this guide use the **RIGHT** key to proceed
+
+### **Set Mode -Set Clock**
+
+-   Hit **OK** to enter the Settings
+
+![](Documents/CameraSOP/Bushnell/Photos/001-SetClock.jpeg)
+
+### **Set Date/ Time**
+
+-   Move Cursor using ( **LEFT/RIGHT** Keys )
+-   Change Selected ( **UP/DOWN** Keys )
+-   Set All Values ( **OK** Button )
+
+![](Documents/CameraSOP/Bushnell/Photos/002-CameraSetTime.jpeg)
+
+### **Set Mode - PreSets**
+
+-   Using the **UP/DOWN** keys select **Advanced**
+-   Press **OK** to set
+-   Press **RIGHT** key to proceed
+
+![](Documents/CameraSOP/Bushnell/Photos/003-SetModePreSets.jpeg)
+
+### **Set Mode - Mode**
+
+-   Using the **UP/DOWN** keys select **Camera**
+-   Press **OK** to set
+-   Press **RIGHT** key to proceed
+
+![](Documents/CameraSOP/Bushnell/Photos/004-Set%20Mode%20Mode.jpeg)
+
+### **Set Mode - Image Size**
+
+-   Using **UP/DOWN** keys select **HD**
+-   Press **OK** Button to set
+-   Press **RIGHT** key to proceed
+
+![](Documents/CameraSOP/Bushnell/Photos/005-Set%20Mode%20Image%20Size.jpeg)
+
+### **Set Mode - Image Format**
+
+-   Using **UP/DOWN** keys select **Full Screen**
+-   Press **OK** Button to set
+-   Press **RIGHT** key to proceed
+
+![](Documents/CameraSOP/Bushnell/Photos/006-SetMode%20Image%20Format.jpeg)
+
+### **Set Mode - Capture Number**
+
+1.  Using **UP/DOWN** keys select **1 Photo**
+2.  Press **OK** Button to set
+3.  Press **RIGHT** key to proceed
+
+![](Documents/CameraSOP/Bushnell/Photos/007-Set%20Mode%20Capture%20Number.jpeg)
+
+### **Set Mode - LED Control**
+
+-   Using **UP/DOWN** keys select **High**
+-   Press **OK** Button to set
+-   Press **RIGHT** key to proceed
+
+![](Documents/CameraSOP/Bushnell/Photos/008-Set%20Mode%20LED%20Control.jpeg)
+
+### **Set Mode - Camera Name**
+
+-   Skip
+-   Press **RIGHT** key to proceed
+
+![](Documents/CameraSOP/Bushnell/Photos/009-Set%20Mode%20Camera%20Name.jpeg)
+
+### **Set Mode - Video Size**
+
+-   Skip
+-   Press **RIGHT** key to proceed
+
+![](Documents/CameraSOP/Bushnell/Photos/010-Set%20Mode%20Video%20Size.jpeg)
+
+### **Set Mode - Video Length**
+
+-   Skip
+-   Press **RIGHT** key to proceed
+
+![](Documents/CameraSOP/Bushnell/Photos/011-Set%20Mode%20Video%20Length.jpeg)
+
+### **Set Mode - Interval**
+
+-   Skip
+-   Press **RIGHT** key to proceed
+
+![](Documents/CameraSOP/Bushnell/Photos/012-Set%20Mode%20Interval.jpeg)
+
+### **Set Mode - Sensor Level**
+
+-   Using **UP/DOWN** keys select **Low**
+-   Press **OK** to set
+-   Press **RIGHT** key to proceed
+
+![](Documents/CameraSOP/Bushnell/Photos/013-Set%20Mode%20Sensor%20Level.jpeg)
+
+### **Set Mode - NV Shutter**
+
+-   Using **UP/DOWN** keys select **Auto**
+-   Press OK to set
+-   Press **RIGHT** key to proceed
+
+![](Documents/CameraSOP/Bushnell/Photos/014-Set%20Mode%20NV%20Shutter%20.jpeg)
+
+### **Set Mode - Camera Mode**
+
+-   Using the **UP/DOWN** key set to **24hrs**
+-   Press **OK** to set
+-   Press **RIGHT** key to proceed
+
+![](Documents/CameraSOP/Bushnell/Photos/015-Set%20Mode%20Camera%20Mode.jpeg)
+
+### **Set Mode - Format**
+
+-   Skip
+-   Press **RIGHT** key to proceed
+
+![](Documents/CameraSOP/Bushnell/Photos/016-Set%20Mode%20Format.jpeg)
+
+### **Set Mode - Time Stamp**
+
+-   Skip
+-   Press **RIGHT** button to proceed
+
+![](Documents/CameraSOP/Bushnell/Photos/017-Set%20Mode%20Time%20Stamp.jpeg)
+
+### **Set Mode Field Scan**
+
+-   Using the **UP/DOWN** key set to **On**
+-   Press **OK** to set/enter settings
+
+![](Documents/CameraSOP/Bushnell/Photos/018-Set%20Mode%20Field%20Scan.jpeg)
+
+### **Interval**
+
+-   Using the **UP/DOWN** key to find **Interval**
+
+-   Press OK Button
+
+    ![](Documents/CameraSOP/Bushnell/Photos/018.1-Set%20Mode%20Field%20Scan%20Interval.jpeg)
+
+-   **Set Interval** - 15 Mins
+
+    -   Use **UP/DOWN** Keys to Change.
+    -   Press **OK** Button to set.
+
+    ![](Documents/CameraSOP/Bushnell/Photos/018.2-Set%20Mode%20Interval%2015.jpeg)
+
+-   **Field Scan A**
+
+    -   Use **DOWN** key to find **Set Mode - Field Scan A**
+
+    -   Press **OK** to enter settings
+
+        ![](Documents/CameraSOP/Bushnell/Photos/018.3-Set%20Mode%20Field%20Scan%20A.jpeg)
+
+    -   **Field Scan A - Settings**
+
+        -   Use **LEFT/RIGHT** Keys to Navigate and **UP/DOWN** keys to select your preference.
+
+        -   Set **Start** to **00:00** and **Stop** to **12:00**
+
+        -   Press **OK** to Set
+
+            ![](Documents/CameraSOP/Bushnell/Photos/018.4-Set%20Mode%20Field%20Scan%20A%20Settings.jpeg)
+
+-   **Field Scan B**
+
+    -   Use **DOWN** key to find **Set Mode - Field Scan B**
+
+    -   Press **OK** to enter settings
+
+        ![](Documents/CameraSOP/Bushnell/Photos/018.7-Set%20Mode%20Field%20Scan%20B.jpeg)
+
+    -   **Field Scan B - Settings**
+
+        -   Use **LEFT/RIGHT** Keys to Navigate and **UP/DOWN** keys to select your preference.
+
+        -   Set **Start** to **12:15** and **Stop** to **23:45**
+
+        -   Press **OK** to Set
+
+            ![](Documents/CameraSOP/Bushnell/Photos/018.6-Set%20Mode%20Field%20Scan%20B%20Settings.jpeg)
+
+-   Press **OK** Button to Set / Exit
+
+-   Press **RIGHT** key to proceed
+
+    ![](Documents/CameraSOP/Bushnell/Photos/018.7-Set%20Mode%20Field%20Scan%20B.jpeg)
+
+### Set Mode - **Coordinate Input**
+
+-   Skip
+-   Press **RIGHT** key to proceed
+
+![](Documents/CameraSOP/Bushnell/Photos/019-Set%20Mode%20Coordinate%20Input.jpeg)
+
+### **Set Mode-Video Sound**
+
+-   Skip
+-   Press **RIGHT** key to proceed
+
+![](Documents/CameraSOP/Bushnell/Photos/020-Set%20Mode%20Video%20Sound.jpeg)
+
+### **Set Mode - Default Set**
+
+-   Skip
+-   Press **RIGHT** key to proceed
+
+![](Documents/CameraSOP/Bushnell/Photos/021-Set%20Mode%20Default%20Set.jpeg)
+
+### **Set Mode - Version**
+
+-   Skip
+-   Press **RIGHT** key to proceed
+
+![](Documents/CameraSOP/Bushnell/Photos/022-Set%20Mode%20Version.jpeg)
+
+### **END of MENU Settings**
+
+-   Pressing of **RIGHT** key should return you to Time Set.
+
+-   You Now can either
+
+    -   Press **RIGHT** or **LEFT** keys to return to any of the setting options.
+
+    -   Press **MENU** to **exit** and return to Standby Page
+
+![](Documents/CameraSOP/Bushnell/Photos/001-SetClock.jpeg)
+
+# Downloading a Camera
+
+1.  Arrive at Camera
+
+2.  Unlock Pad Lock and remove camera from housing ( remove if you can )
+
+3.  Open Camera
+
+    -   **POWER/MODE SWITCH** Should be **ON**
+    -   Take Photo of it (Like the one pictured below), even if it is **OFF**
+        -   The photo will allow user to both confirm it was on and if the SD card had no images it was a SD card or camera malfunction.
+
+    ![](Documents/CameraSOP/Bushnell/Photos/Camera%20On.jpeg)
+
+4.  Move **POWER/MODE SWITCH** to **OFF**
+
+    ![](Documents/CameraSOP/Bushnell/Photos/Bushnell%20Camera%20Initial%20Off.jpeg)
+
+5.  Remove **SD Card**
+
+    1.  Refer to **Camera Overview** section , subsection 2 , subsection 4 ( **SD Card Slot** )
+
+    ![](Documents/CameraSOP/Bushnell/Photos/Bushnell%20Camera%20Remove%20SD.jpeg)
+
+6.  Insert **Blank SD Card**
+
+    ![](Documents/CameraSOP/Bushnell/Photos/Bushnell%20Camera%20Insert%20SD.jpeg)
+
+7.  Move **POWER/MODE SWITCH** to **SETUP**
+
+    -   LCD Screen Will Turn ON.
+    -   IF LCD Screen does not turn ON.
+        -   Move Power Switch to **OFF**
+        -   **Replace Batteries**
+
+    ![](Documents/CameraSOP/Bushnell/Photos/Bushnell%20Camera%20Turn%20to%20SetUP.jpeg)
+
+8.  **Check Time**
+
+    1.  Take photo exactly like one below.
+    2.  If time differs change it.
+    3.  Follow from **MENU** sections use sub section **1.** to **Set Clock** to adjust time
+    4.  This camera was 2 min ahead so had to subtract 2 min
+
+    ![](Documents/CameraSOP/Bushnell/Photos/Camera%20Not%20Adjusted.jpeg)
+
+9.  **Check other Settings**
+
+    1.  **Camera Mode**
+    2.  **Field Scan On**
+    3.  **Battery Level**
+        -   If 1/3 change batteries
+    4.  **SD Card Unlocked**
+    5.  If settings are good take a photo exactly like the one below.
+
+    ![](Documents/CameraSOP/Bushnell/Photos/Settings%20Check.jpeg)
+
+10. **Deploy Camera**
+
+    1.  Move Power Switch to ON
+
+    2.  Take Photo exactly like on below.
+
+        -   The photo will allow the user to confirm that the camera is on when they are not at camera
+
+    ![](Documents/CameraSOP/Bushnell/Photos/Camera%20On.jpeg)
+
+11. **Put Camera Back in Housing and have a nice day**
