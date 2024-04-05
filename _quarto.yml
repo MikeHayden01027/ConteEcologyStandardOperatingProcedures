@@ -17,7 +17,9 @@ book:
   date: today
   chapters:
     - index.qmd
-    - Bushnell Camera_SOP.qmd
+    - part: "Cameras"
+      chapters:
+      - Bushnell Camera_SOP.qmd
     
 format:
   html:
